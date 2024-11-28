@@ -81,21 +81,21 @@
   <h2>📊 GitHub Stats</h2>
   <p>
     <img
-      src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical"
+      src="https://github-readme-stats.vercel.app/api?username=bobyasin&show_icons=true&theme=radical"
       alt="GitHub Stats"
       style="max-width: 100%"
     />
   </p>
   <p>
     <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical&date_format=M%20j%5B%2C%20Y%5D"
+      src="https://github-readme-streak-stats.herokuapp.com?user=bobyasin&theme=radical&date_format=M%20j%5B%2C%20Y%5D"
       alt="GitHub Streak"
       style="max-width: 100%"
     />
   </p>
   <p>
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobyasin&layout=compact&theme=radical&hide=html,css&langs_count=8"
       alt="Top Languages"
       style="max-width: 100%"
     />

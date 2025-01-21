@@ -6,7 +6,7 @@
     solving complex problems and building scalable, efficient solutions.
   </p>
   <p>
-    🌱 Currently working on <strong>Spring Boot</strong> and exploring the
+    🌱 Currently working on <strong>Spring Boot</strong> and <strong>Rust</strong> also exploring the
     latest trends in backend and distributed systems. 🚀 Always learning and
     evolving with the tech landscape!
   </p>

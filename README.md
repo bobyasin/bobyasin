@@ -122,5 +122,8 @@
    <a href="https://www.hackerrank.com/profile/yasinbabaoglu55" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
+  <a href="https://medium.com/@yasinbabaoglu" target="_blank">
+     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
   </p>
 </div>
